@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Using Customer Model Binding.props" />
+</Project>
